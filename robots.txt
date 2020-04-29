@@ -7,3 +7,6 @@ Disallow: /tilda/popup*
 Disallow:
 Sitemap: http://edu.sfu.tilda.ws/sitemap.xml
 Host: edu.sfu.tilda.ws
+
+
+ûüףעפ חשהÿשלפוףהפ
