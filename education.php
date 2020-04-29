@@ -896,7 +896,7 @@
         <div class="t-container">
           <div class="t-col t-col_10 t-prefix_1 t-align_center">
             <div class="t588__buttons">
-              <div class="t588__buttons-wrapper t-margin_auto"><a href="" target="" class="t588__btn t-btn t588__btn-size_xxl " style="color:#ffffff;background-color:#e63e11;border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;">
+              <div class="t588__buttons-wrapper t-margin_auto"><a href="./" target="" class="t588__btn t-btn t588__btn-size_xxl " style="color:#ffffff;background-color:#e63e11;border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;">
                   <table style="width:100%; height:100%;">
                     <tr>
                       <td>НА ГЛАВНУЮ</td>
